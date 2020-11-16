@@ -16,10 +16,4 @@ CCPP Technical Documentation
    ConstructingSuite
    AutoGenPhysCaps
    HostSideCoding
-   CodeManagement
-   CCPPPreBuild
-   AddingNewSchemes
-   ParamSpecificOutput
-   CCPPDebug
-   Acronyms
-   Glossary
+   
